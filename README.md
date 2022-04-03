@@ -2,7 +2,7 @@
 
 ## Requirements
 
-You need to have `Python 3.8+` installed. `Flask` will be installed alongside the setup of the virtual environment.
+You need to have `Python 3.8+` installed. `flask` will be installed alongside the setup of the virtual environment.
 
 ## Setting up a Virtual Environment (Windows)
 
