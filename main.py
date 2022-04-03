@@ -1,4 +1,4 @@
-from flask import Flask, request, jsonify, json
+from flask import Flask, request, jsonify
 
 """
 The payload contains 3 types of data:
